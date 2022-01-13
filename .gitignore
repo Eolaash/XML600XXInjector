@@ -1,0 +1,5 @@
+# ignore utility scripts
+XMLNormalizer*.vbs
+
+# ignore 600XX forms
+60002_*.xml
